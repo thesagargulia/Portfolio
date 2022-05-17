@@ -21,7 +21,7 @@ export const About = () => {
         <Type />
         <p className="about__desc" data-aos="fade-right">
           A Full Stack Developer who loves solving problems and building projects. <br/>
-          Attired with a variety of tools, technologies and keen to learn new one.
+          Attired with a variety of tools & technologies and keen to learn new one.
         </p>
         <div className="about__contact center">
           <a
