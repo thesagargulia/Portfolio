@@ -42,13 +42,13 @@ export const Introduction = () => {
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Cricket Enthusiast{" "}
+                Volley Ball Enthusiast{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Reading Psychology of Money{" "}
+                Reading Money Making Books{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
