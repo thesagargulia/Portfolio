@@ -26,8 +26,8 @@ export const Introduction = () => {
                 Hi Everyone, I am{" "}
                 <span className="different">Sagar Gulia </span> from{" "}
                 <span className="different"> Rohini, New Delhi</span>. I am
-                pursuing my graduation in Bachelor of Commerce from Delhi University
-               School of Open Learning, New Delhi.
+                pursuing my graduation in Bachelor of Commerce from Delhi University.
+                I am an Aspiring Full Stack Web Developer who likes learning and building things that upgrade my skills.
               </h4>
               <h4>
                 Some of my interests apart form Coding :
