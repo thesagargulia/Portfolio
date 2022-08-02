@@ -70,7 +70,7 @@ export const About = () => {
             <DescriptionIcon />
           </a>
           <a
-            href="https://www.facebook.com/sagar.gulia.5494/"
+            href="https://www.facebook.com/sagar.gulia11/"
             aria-label="github"
             className="link link--icon"
             target="_blank"
