@@ -1,7 +1,7 @@
 
 <h1 align="center">
   Portfolio Website<br/>
-  <a href="https://portfolio-sagargulia1.vercel.app/" target="_blank">sagargulia</a>
+  <a href="https://thesagargulia.vercel.app/" target="_blank">sagargulia</a>
 </h1>
 <div align="center">
   <img alt="Demo" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651809711956/Fi8gmJeCs.PNG" />
@@ -26,7 +26,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="http://https://portfolio-sagargulia1.vercel.app//" target="_blank">sagargulia1</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="http://https://thesagargulia.vercel.app//" target="_blank">sagargulia1</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -41,7 +41,7 @@ This project was built using these technologies.
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and Css with easy-to-customize colors**
 
 **📱 Fully Responsive**
 
