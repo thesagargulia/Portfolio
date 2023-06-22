@@ -58,7 +58,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/sagargulia1/Nordstorm-Clone"
+                  href="https://github.com/thesagargulia/Nordstorm-Clone"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -75,7 +75,7 @@ export const Projects = () => {
             <div className="project_videocontainer">
               <div data-aos="fade-right">
                 <img
-                  src="https://github.com/sagargulia1/CloneUrbanOutfitters/raw/main/images/img3.png"
+                  src="https://github.com/thesagargulia/CloneUrbanOutfitters/raw/main/images/img3.png"
                   alt="
                   CloneUrbanOutfitters"
                 />
@@ -103,7 +103,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/sagargulia1/CloneUrbanOutfitters"
+                  href="https://github.com/thesagargulia/CloneUrbanOutfitters"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -231,7 +231,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/sagargulia1/Practo-Clone-Project"
+                  href="https://github.com/thesagargulia/Practo-Clone-Project"
                   target="_blank"
                   rel="noreferrer"
                 >

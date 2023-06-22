@@ -25,7 +25,7 @@ export const About = () => {
         </p>
         <div className="about__contact center">
           <a
-            href="https://github.com/sagargulia1"
+            href="https://github.com/thesagargulia"
             aria-label="github"
             target="_blank"
             rel="noreferrer"
@@ -34,7 +34,7 @@ export const About = () => {
             <GitHubIcon />
           </a>
           <a
-            href="mailto:sgulia729@gmail.com"
+            href="mailto:thesagargulia@gmail.com"
             target="_blank"
             rel="noreferrer"
             aria-label="github"
@@ -52,7 +52,7 @@ export const About = () => {
             <PhoneIcon />
           </a>
           <a
-            href="https://www.linkedin.com/in/sagar-gulia/"
+            href="https://www.linkedin.com/in/thesagargulia/"
             aria-label="github"
             className="link link--icon"
             target="_blank"

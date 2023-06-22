@@ -9,7 +9,7 @@ export const Footer = () => {
     <>
       <div className={"section " + themename}>
         <a
-          href="https://github.com/sagargulia1"
+          href="https://github.com/thesagargulia"
           rel="noreferrer"
           target="_blank"
         >

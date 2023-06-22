@@ -1,7 +1,7 @@
 
 <h1 align="center">
   Portfolio Website<br/>
-  <a href="https://portfolio-sagargulia1.vercel.app/" target="_blank">sagargulia</a>
+  <a href="https://thesagargulia.vercel.app/" target="_blank">thesagargulia</a>
 </h1>
 <div align="center">
   <img alt="Demo" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651809711956/Fi8gmJeCs.PNG" />
@@ -14,19 +14,19 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/sagargulia1/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/sagargulia1/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/thesagargulia/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/thesagargulia/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [sagargulia1](https://github.com/sagargulia1/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [thesagargulia](https://github.com/thesagargulia/Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="http://https://portfolio-sagargulia1.vercel.app//" target="_blank">sagargulia1</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="http://https://thesagargulia.vercel.app//" target="_blank">thesagargulia</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 

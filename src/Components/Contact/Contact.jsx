@@ -17,28 +17,28 @@ export const Contact = () => {
         </h2>
         <div className={"contactcontainer " + themename} data-aos="fade-right">
           <a
-            href="https://www.linkedin.com/in/sagar-gulia/"
+            href="https://www.linkedin.com/in/thesagargulia/"
             target="_blank"
             rel="noreferrer"
           >
             <FaLinkedin className="linkedin" />
           </a>
           <a
-            href="https://github.com/sagargulia1"
+            href="https://github.com/thesagargulia"
             target="_blank"
             rel="noreferrer"
           >
             <VscGithub className="github" />
           </a>
           <a
-            href="mailto:sgulia729@gmail.com"
+            href="mailto:thesagargulia@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
             <CgMail className="email" />
           </a>
           <a
-            href="https://instagram.com/sagar_gulia1"
+            href="https://instagram.com/thesagargulia"
             target="_blank"
             rel="noreferrer"
           >
