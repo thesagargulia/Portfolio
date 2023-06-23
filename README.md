@@ -1,10 +1,10 @@
 
 <h1 align="center">
   Portfolio Website<br/>
-  <a href="https://portfolio-sagargulia1.vercel.app/" target="_blank">sagargulia</a>
+  <a href="https://thesagargulia.vercel.app/" target="_blank">thesagargulia</a>
 </h1>
 <div align="center">
-  <img alt="Demo" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651809711956/Fi8gmJeCs.PNG" />
+  <img alt="Demo" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687538411290/ee6d785c-270c-4ec4-9417-302e3fdc9067.png" />
 </div>
 
 <br/>
@@ -22,11 +22,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [thesagargulia](https://github.com/thesagargulia/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking to [thesagargulia](https://github.com/thesagargulia/Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="http://https://portfolio-sagargulia1.vercel.app//" target="_blank">sagargulia1</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My portfolio <a href="http://https://thesagargulia.vercel.app//" target="_blank">thesagargulia</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -53,9 +53,9 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 1. Installation: `npm install`
 
-2. In the project directory, you can run: `npm start`
+2. In the project directory, you can run: `npm start
 
-Runs the app in the development mode.\
+It runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
