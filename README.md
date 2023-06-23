@@ -26,7 +26,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My portfolio <a href="http://https://thesagargulia.vercel.app//" target="_blank">thesagargulia</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
+My portfolio <a href="https://thesagargulia.vercel.app/" target="_blank">thesagargulia</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
